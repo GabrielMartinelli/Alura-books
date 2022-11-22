@@ -1,0 +1,9 @@
+hr{
+    margin: 0;
+}
+
+.rodape{
+    background-color: var(--fundo-rodape);
+    padding: 1em;
+    border-top: 1px groove;
+}
